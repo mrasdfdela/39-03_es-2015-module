@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## [ES2015 Module Exercise](http://curric.rithmschool.com/springboard/exercises/react-modules-fruits/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
